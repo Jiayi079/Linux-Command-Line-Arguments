@@ -1,3 +1,21 @@
+# Class:  CSC-415-0# Fall 2022
+# Name: Jiayi Gu
+# Student ID: 920024739
+# GitHub Name: Jiayi079
+# Project: Assignment 1 – Command Line Arguments
+#
+# File: <*Makefile>
+#
+# Description:
+#
+#    *Makefile is used to determine which parts of a program need to 
+#    be recompile,and issues command to recompile them.
+#
+#
+
+
+
+
 # File: Standard Makefile for CSC415
 #
 # Description - This make file should be used for all your projects
@@ -35,8 +53,8 @@
 # will delete the executable and any object files in your directory.
 #
 
-LASTNAME=
-FIRSTNAME=
+LASTNAME=Gu
+FIRSTNAME=Jiayi
 HW=1
 
 RUNOPTIONS=Hello World
